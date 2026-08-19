@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Swift Meds",
+    "slug": "swift-meds",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0E7C4A"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.swiftmeds.app"
+    },
+    "android": {
+      "package": "com.swiftmeds.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0E7C4A"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
